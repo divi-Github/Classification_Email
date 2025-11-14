@@ -3,7 +3,7 @@ import requests
 import base64
 import io
 
-API_URL = "https://eed0a91aabec.ngrok-free.app/process/split-container-pdf"
+API_URL = "https://140ce3b927c1.ngrok-free.app/process/split-container-pdf"
 
 st.set_page_config(
     page_title="PDF Container Splitter & Viewer",
